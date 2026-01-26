@@ -13,12 +13,6 @@ This project demonstrates **AI integration in .NET** combining **LLM reasoning**
 
 ---
 
-## Demo
-![Demo GIF](docs/demo.gif)  
-> *Replace with actual GIF showing Postman request & AI review response*
-
----
-
 ## Features
 - ✅ Review C# code for **Clean Code & SOLID principles**  
 - ✅ Generates **Summary, Issues, Suggestions, Score**  
