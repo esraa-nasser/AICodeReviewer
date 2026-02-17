@@ -1,4 +1,4 @@
-﻿namespace AICodeReviewer.Services
+﻿namespace AICodeReviewer.Services.V1
 {
     public static class PromptBuilder
     {
